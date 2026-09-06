@@ -48,10 +48,12 @@ Developed by: Saranya R RegisterNumber: 212225040384
 
 **RTL realization**
 
+<img width="787" height="623" alt="WhatsApp Image 2026-09-05 at 6 22 05 PM" src="https://github.com/user-attachments/assets/25afdcbd-4c35-4c1b-941e-72ec382ccb89" />
 
 
 **Output RTL:**
 
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-05 at 6 21 55 PM" src="https://github.com/user-attachments/assets/5838d3ee-e7d7-4c8b-8359-4d3eac594a5e" />
 
 **Result:**
 
