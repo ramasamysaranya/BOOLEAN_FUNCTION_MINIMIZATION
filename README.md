@@ -35,7 +35,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 ```
-module exp1(a,b,c,d,w,x,y,z,f1,f2);
+module exp2(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
 assign f1 = ~a&~b&~c&~d | a&~c&~d | ~b&c&~d | ~a&b&c&d | b&~c&d;
@@ -48,12 +48,14 @@ Developed by: Saranya R RegisterNumber: 212225040384
 
 **RTL realization**
 
-<img width="787" height="623" alt="WhatsApp Image 2026-09-05 at 6 22 05 PM" src="https://github.com/user-attachments/assets/25afdcbd-4c35-4c1b-941e-72ec382ccb89" />
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/1e277738-67a8-484f-abe0-2091f138b164" />
+
 
 
 **Output RTL:**
 
-<img width="1600" height="899" alt="WhatsApp Image 2026-09-05 at 6 21 55 PM" src="https://github.com/user-attachments/assets/5838d3ee-e7d7-4c8b-8359-4d3eac594a5e" />
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/414e4fc0-bafc-4a83-be02-afa0735264d8" />
+
 
 **Result:**
 
