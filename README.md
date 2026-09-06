@@ -47,11 +47,11 @@ Developed by: Saranya R RegisterNumber: 212225040384
 
 
 **RTL realization**
-<img width="1413" height="1113" alt="de exp" src="https://github.com/user-attachments/assets/8ca50d12-750f-46a0-86cb-be9fe4de1f66" />
+
 
 
 **Output RTL:**
-<img width="1536" height="1024" alt="de exp2 im2" src="https://github.com/user-attachments/assets/ecf8f635-b909-4c83-b7ca-0208c3708dce" />
+
 
 **Result:**
 
